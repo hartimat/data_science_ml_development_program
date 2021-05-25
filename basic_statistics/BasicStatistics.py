@@ -5,7 +5,7 @@
 # DESCRIPTION: A python script that runs basic statistical tests (e.g. Chi^2,
 #              t-test) on an input excel data file.
 ###############################################################################
-C:\Users\Matt\Documents\(2) Money\! dev\DSDP\basic_statistics\.idea
+
 # IMPORTS
 import pandas as pd
 import numpy as np
