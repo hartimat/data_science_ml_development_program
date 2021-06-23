@@ -1,5 +1,5 @@
 ###############################################################################
-# FILENAME: Clustering.py
+# FILENAME: TextAnalytics.py
 # AUTHOR: Matthew Hartigan
 # DATE: 14-June-2021
 # DESCRIPTION: A python script to analyze the words in input text files.
