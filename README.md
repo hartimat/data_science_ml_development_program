@@ -9,6 +9,8 @@ This repo is a collection of individual scripts that implement various data scie
 
 Each script folder represents a different week of course work done for the Data Science & Machine Learning Development Program I completed in 2021.
 
+## [ STACK ]
+- Python
 
 ## [ CHALLENGES ]
 
